@@ -9,12 +9,12 @@ MAX_BUY_ATTEMPTS: int = 0
 MAX_VEHICLE_COST: int = 150
 MIN_VEHICLE_COST: int = 120
 
-if len(sys.argv) == 3:
-    MAX_VEHICLE_COST = int(sys.argv[2])
+if len(sys.argv) == 2:
+    MAX_VEHICLE_COST = int(sys.argv[1])
     MIN_VEHICLE_COST = MAX_VEHICLE_COST - 20
-if len(sys.argv) == 4:
-    MIN_VEHICLE_COST = int(sys.argv[2])
-    MAX_VEHICLE_COST = int(sys.argv[3])
+if len(sys.argv) == 3:
+    MIN_VEHICLE_COST = int(sys.argv[1])
+    MAX_VEHICLE_COST = int(sys.argv[2])
 
 armor_data: 'list[dict]' = cst.read('data/armor.csv')
 frame_data: 'list[dict]' = cst.read('data/frame.csv')

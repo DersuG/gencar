@@ -106,3 +106,51 @@
   Engine: Lite II              Max Speed: 6
   Wheels: Liquidrunner         Traction: 0 (full control on slippery surfaces, like oil)
 
+  Name: Afraid Entrance   Money: 25
+  Armor: Sheet Plate      HP: 6/6
+  Frame: Carbon F12       Space: 0
+  Engine: Hydraean V      Max Speed: 8
+  Wheels: Liquidrunner    Traction: 0 (full control on slippery surfaces, like oil)
+
+  Name: Shaky Agency   Money: 45
+  Armor: Sheet Plate   HP: 6/6
+  Frame: Type III      Space: 5
+  Engine: Lite I       Max Speed: 4
+  Wheels: DualGrip     Traction: 3
+
+  Name: Wistful Eyelid   Money: 5
+  Armor: Plastishell     HP: 8/8
+  Frame: Type II         Space: 4
+  Engine: Lite I         Max Speed: 4
+  Wheels: Heavy          Traction: 2
+
+  Name: Scientist Of Thousand   Money: 10
+  Armor: Plastishell            HP: 8/8
+  Frame: Type III               Space: 5
+  Engine: Superlite             Max Speed: 3
+  Wheels: Light                 Traction: 0
+
+  Name: Silent City       Money: 5
+  Armor: Fire Resistant   HP: 8/8 (half damage from fire)
+  Frame: Type II          Space: 4
+  Engine: Lite I          Max Speed: 4
+  Wheels: Light           Traction: 0
+
+  Name: Kind Tax            Money: 25
+  Armor: Sheet Plate        HP: 6/6
+  Frame: SleekMaster        Space: 2 (+1 To Hit vs. ranged)
+  Engine: Fuchsia Black 4   Max Speed: 5 (can roll Traction to accelerate beyond, up to 7)
+  Wheels: Light             Traction: 0
+
+  Name: Wise Debtor    Money: 5
+  Armor: Glareplate    HP: 6/6 (+1 To Hit vs. ranged)
+  Frame: SleekMaster   Space: 2 (+1 To Hit vs. ranged)
+  Engine: Lite III     Max Speed: 3
+  Wheels: Treads       Traction: 4 (-3 Max Speed)
+
+  Name: Aware Paintwork   Money: 5
+  Armor: Fire Resistant   HP: 8/8 (half damage from fire)
+  Frame: Type III         Space: 5
+  Engine: Hydraean V      Max Speed: 8
+  Wheels: Medium          Traction: 1
+
