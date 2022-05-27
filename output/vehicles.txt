@@ -1,0 +1,108 @@
+  Name: Teapot Of Stamina   Money: 30
+  Armor: Ceramic Plate      HP: 12/12
+  Frame: X-Wide             Space: 3 (+2 Traction)
+  Engine: Fuscia Black 4    Max Speed: 5 (can roll Traction to accelerate beyond, up to 7)
+  Wheels: Light             Traction: 2
+
+  Name: Clapboard Fitness   Money: 15
+  Armor: Fire Resistant     HP: 8/8 (half damage from fire)
+  Frame: X-Wide             Space: 3 (+2 Traction)
+  Engine: Lite I            Max Speed: 4
+  Wheels: DriftTyre         Traction: 6 (Traction is 0 when speed < 4)
+
+  Name: Poor Underwire    Money: 20
+  Armor: Fire Resistant   HP: 8/8 (half damage from fire)
+  Frame: Type II          Space: 4
+  Engine: Hydraean V      Max Speed: 8
+  Wheels: Medium          Traction: 1
+
+  Name: Meadow Of Highland   Money: 15
+  Armor: Fire Resistant      HP: 8/8 (half damage from fire)
+  Frame: Type I              Space: 3
+  Engine: Vector X           Max Speed: 10
+  Wheels: Medium             Traction: 1
+
+  Name: License Mile      Money: 20
+  Armor: Fire Resistant   HP: 8/8 (half damage from fire)
+  Frame: Carbon F12       Space: 0
+  Engine: Lite I          Max Speed: 4
+  Wheels: DualGrip        Traction: 3
+
+  Name: Callous Altitude   Money: 10
+  Armor: Plastishell       HP: 8/8
+  Frame: Battlecar-1       Space: 6 (-1 To Hit vs. ranged)
+  Engine: Vector 9         Max Speed: 6
+  Wheels: Treads           Traction: 4 (-3 Max Speed)
+
+  Name: Tsunami Passenger   Money: 15
+  Armor: Plastishell        HP: 8/8
+  Frame: Type II            Space: 4
+  Engine: Vector 9          Max Speed: 9
+  Wheels: DualGrip          Traction: 3
+
+  Name: Owner Lesbian   Money: 20
+  Armor: Glareplate     HP: 6/6 (+1 To Hit vs. ranged)
+  Frame: Type II        Space: 4
+  Engine: Vector 9      Max Speed: 9
+  Wheels: Heavy         Traction: 2
+
+  Name: Parched Cappelletti   Money: 30
+  Armor: Fire Resistant       HP: 8/8 (half damage from fire)
+  Frame: Type III             Space: 5
+  Engine: Lite I              Max Speed: 1
+  Wheels: Treads              Traction: 4 (-3 Max Speed)
+
+  Name: Splendor Of Carboxyl   Money: 30
+  Armor: Glareplate            HP: 6/6 (+1 To Hit vs. ranged)
+  Frame: SleekMaster           Space: 2 (+1 To Hit vs. ranged)
+  Engine: Vector 9             Max Speed: 6
+  Wheels: Treads               Traction: 4 (-3 Max Speed)
+
+  Name: Vulgar Hazelnut    Money: 20
+  Armor: Fire Resistant    HP: 8/8 (half damage from fire)
+  Frame: Type III          Space: 5
+  Engine: Fuscia Black 4   Max Speed: 2 (can roll Traction to accelerate beyond, up to 7)
+  Wheels: Treads           Traction: 4 (-3 Max Speed)
+
+  Name: Debonair Automaton   Money: 15
+  Armor: Fire Resistant      HP: 8/8 (half damage from fire)
+  Frame: Type II             Space: 4
+  Engine: Hydraean V         Max Speed: 8
+  Wheels: Liquidrunner       Traction: 0 (full control on slippery surfaces, like oil)
+
+  Name: Specialist Duration   Money: 5
+  Armor: Microcarbon          HP: 15/15 (double damage from fire)
+  Frame: X-Wide               Space: 3 (+2 Traction)
+  Engine: Fuchsia Black 4     Max Speed: 2 (can roll Traction to accelerate beyond, up to 7)
+  Wheels: Treads              Traction: 6 (-3 Max Speed)
+
+  Name: Grasshopper Of Encyclopedia   Money: 10
+  Armor: Fire Resistant               HP: 8/8 (half damage from fire)
+  Frame: X-Wide                       Space: 3 (+2 Traction)
+  Engine: Lite II                     Max Speed: 5
+  Wheels: DriftTyre                   Traction: 6 (Traction is 0 when speed < 4)
+
+  Name: Survey Of Placode      Money: 25
+  Armor: Microcarbon           HP: 15/15 (double damage from fire)
+  Frame: Superlite Raceframe   Space: 0 (+1 Max Speed)
+  Engine: Lite I               Max Speed: 5
+  Wheels: Medium               Traction: 1
+
+  Name: Concrete Pass          Money: 5
+  Armor: Steel Plate           HP: 10/10
+  Frame: Superlite Raceframe   Space: 0 (+1 Max Speed)
+  Engine: Vector 9             Max Speed: 10
+  Wheels: DualGrip             Traction: 3
+
+  Name: Merciful Ischemia   Money: 20
+  Armor: Glareplate         HP: 6/6 (+1 To Hit vs. ranged)
+  Frame: X-Wide             Space: 3 (+2 Traction)
+  Engine: Phoenix RE        Max Speed: 7
+  Wheels: Liquidrunner      Traction: 2 (full control on slippery surfaces, like oil)
+
+  Name: Spiffy Metal           Money: 30
+  Armor: Ceramic Plate         HP: 12/12
+  Frame: Superlite Raceframe   Space: 0 (+1 Max Speed)
+  Engine: Lite II              Max Speed: 6
+  Wheels: Liquidrunner         Traction: 0 (full control on slippery surfaces, like oil)
+

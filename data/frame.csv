@@ -1,0 +1,10 @@
+cost,   name,                   hp_mod, space_mod,  max_speed_mod,  traction_mod, description
+int,    string,                 int,    int,        int,            int,          string
+20,     "Type I",               0,      3,          0,              0,            ""
+35,     "Type II",              0,      4,          0,              0,            ""
+50,     "Type III",             0,      5,          0,              0,            ""
+50,     "X-Wide",               0,      3,          0,              2,            "+2 Traction"
+30,     "SleekMaster",          0,      2,          0,              0,            "+1 To Hit vs. ranged"
+50,     "Battlecar-1",          0,      6,          0,              0,            "-1 To Hit vs. ranged"
+40,     "Superlite Raceframe",  0,      0,          1,              0,            "+1 Max Speed"
+50,     "Carbon F12",           0,      0,          0,              0,            ""
