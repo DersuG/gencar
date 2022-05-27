@@ -1,0 +1,9 @@
+cost,   name,               hp_mod, space_mod,  max_speed_mod,  traction_mod, description
+int,    string,             int,    int,        int,            int,          string
+10,     "Sheet Plate",      6,      0,          0,              0,            ""
+20,     "Plastishell",      8,      0,          0,              0,            ""
+20,     "Glareplate",       6,      0,          0,              0,            "+1 To Hit vs. ranged"
+25,     "Steel Plate",      10,     0,          0,              0,            ""
+35,     "Ceramic Plate",    12,     0,          0,              0,            ""
+50,     "Microcarbon",      15,     0,          0,              0,            "double damage from fire"
+35,     "Fire Resistant",   8,      0,          0,              0,            "half damage from fire"

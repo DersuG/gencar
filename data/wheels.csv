@@ -1,0 +1,9 @@
+cost,   name,               hp_mod, space_mod,  max_speed_mod,  traction_mod, description
+int,    string,             int,    int,        int,            int,          string
+10,     "Light",            0,      0,          0,              0,            ""
+20,     "Medium",           0,      0,          0,              1,            ""
+25,     "Heavy",            0,      0,          0,              2,            ""
+30,     "DualGrip",         0,      0,          0,              3,            ""
+25,     "Liquidrunner",     0,      0,          0,              0,            "full control on slippery surfaces, like oil"
+20,     "Treads",           0,      0,          -3,             4,            "-3 Max Speed"
+35,     "DriftTyre",        0,      0,          0,              4,            "Traction is 0 when speed < 4"
